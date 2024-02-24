@@ -28,15 +28,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="5.6586981"
-     inkscape:cx="1082.9346"
-     inkscape:cy="614.27557"
+     inkscape:zoom="8.0026076"
+     inkscape:cx="780.24568"
+     inkscape:cy="402.11893"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1600"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g121"><inkscape:grid
+     inkscape:current-layer="layer1"><inkscape:grid
        type="xygrid"
        id="grid132"
        units="mm"
@@ -2417,7 +2417,7 @@
    inkscape:export-filename="./STB.png"
    inkscape:export-xdpi="325.12"
    inkscape:export-ydpi="325.12"
-   transform="translate(24.57149,-112.13136)"><rect
+   transform="translate(21.463002,-112.13136)"><rect
      style="fill:#c4161d;fill-opacity:1;stroke-width:0.255315;stroke-linecap:round"
      id="rect36693"
      width="10"
@@ -2712,7 +2712,48 @@
        id="tspan2036-7-9-3"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Concourse OT';-inkscape-font-specification:'Concourse OT Bold';fill:#1a1a1a;fill-opacity:1;stroke-width:0.278368"
        x="282.32755"
-       y="259.32025">U9</tspan></text></g></g><g
+       y="259.32025">U9</tspan></text></g><g
+   id="g5"
+   inkscape:label="Schw-B"
+   transform="translate(-15.829433,61.275615)"
+   inkscape:export-filename="Schw-B.png"
+   inkscape:export-xdpi="508.00003"
+   inkscape:export-ydpi="508.00003"><rect
+   style="fill:#014e8d;fill-opacity:1;stroke-width:0.255315;stroke-linecap:round"
+   id="rect5"
+   width="10"
+   height="10"
+   x="228.14343"
+   y="36.725197"
+   rx="1.5"
+   ry="1.5"
+   inkscape:export-filename="rect2016.png"
+   inkscape:export-xdpi="325.12"
+   inkscape:export-ydpi="325.12" /><g
+   id="g4"
+   transform="matrix(0.03125,0,0,-0.03125,226.89343,48.928556)">
+	
+	
+	
+	
+	
+	
+	<rect
+   x="80"
+   y="310"
+   fill="#ffffff"
+   width="240"
+   height="10"
+   id="rect3" />
+	<path
+   fill="#ffffff"
+   d="m 312.295,156.73 c -0.882,-9.584 -4.851,-15.715 -16.022,-15.715 H 224.13 80 v 64.7016 h 32.015 c 2.763,0 5.002,2.241 5.002,5 v 74.115 c 0,2.759 -2.239,4.998 -5.002,4.998 H 80 v 10.1734 h 231.56887 c 2.761,0 5.07836,-2.24011 5,-5 z M 142.842,282.299 c 0,4.249 -3.448,7.7 -7.699,7.7 -4.248,0 -7.7,-3.45 -7.7,-7.7 V 156.722 c 0,-4.251 3.452,-7.699 7.7,-7.699 4.251,0 7.699,3.448 7.699,7.699 z m 25.825,0 c 0,4.249 -3.448,7.7 -7.699,7.7 -4.248,0 -7.7,-3.45 -7.7,-7.7 V 156.722 c 0,-4.251 3.452,-7.699 7.7,-7.699 4.251,0 7.699,3.448 7.699,7.699 z m 71.063,2.5326 c 0,2.759 -2.239,4.998 -4.999,4.998 h -50.637 c -2.763,0 -5.002,-2.239 -5.002,-4.998 v -74.115 c 0,-2.76 2.239,-5 5.002,-5 h 50.637 c 2.759,0 4.999,2.241 4.999,5 z m 63.44667,4.20404 -49.65167,0.429 c -2.763,0 -5.002,-2.239 -5.002,-4.998 v -74.115 c 0,-2.76 2.239,-5 5.002,-5 h 46.186 c 2.759,0 4.646,1.776 4.999,5 l 3.06467,73.731 c 0.1204,2.89667 -1.838,4.953 -4.598,4.953 z"
+   id="path4"
+   sodipodi:nodetypes="cscccssssccsccsssssssssssssssssssssssccsssscsc" />
+</g>
+
+
+</g></g><g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Nürnberg"><g
